@@ -1,0 +1,1 @@
+echo "export default function Home() { return <h1>Hello Jenkins</h1> }" > pages/index.js
